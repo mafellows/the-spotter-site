@@ -64,6 +64,7 @@ body {
 .mtb {margin-top: 50px; margin-bottom: 50px;}
 .mtb2 { margin-top: 100px; margin-bottom: 100px;}
 .ptb {padding-top: 80px; padding-bottom: 80px;}
+.pad-bottom { padding-bottom: 80px;}
 
 .clear {
 	clear: both;
@@ -107,6 +108,16 @@ a:hover,
 a:focus {
   text-decoration: none;
   color:#696E74;
+}
+
+.bench-img {
+	max-width: 75%;
+	min-width: 75%; 
+
+}
+
+.logo {
+	max-width: 50%; 
 }
 
 .nopadding {
